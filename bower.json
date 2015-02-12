@@ -1,0 +1,24 @@
+{
+  "name": "jquery-customUpload-field",
+  "version": "0.0.0",
+  "authors": [
+    "Joe <josephdburdick@gmail.com>"
+  ],
+  "description": "Replace default file inputs with custom HTML/CSS",
+  "main": "index.html",
+  "keywords": [
+    "custom",
+    "replace",
+    "upload",
+    "filepicker"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/josephdburdick/jquery-customFileInput",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
